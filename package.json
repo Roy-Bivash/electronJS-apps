@@ -1,0 +1,14 @@
+{
+  "name": "Application",
+  "version": "1.0.0",
+  "description": "C'est moi wsh",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Hello it's my app bitch",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^21.2.2"
+  }
+}

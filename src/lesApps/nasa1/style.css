@@ -1,0 +1,34 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+#theLoading{
+  
+}
+#theContainer{
+  visibility: hidden;
+}
+#titre{
+  margin-top: 30px;
+}
+
+.img{
+  padding-bottom: 0px;
+  text-align: center;
+}
+
+.paragraphe{
+  text-align:center;
+  margin-left:10vw;
+  margin-right:10vw;
+  margin-bottom: 5vh;
+}
+
+.laVideo{
+  width: 100%;
+}
+
+.p2{
+  
+}
